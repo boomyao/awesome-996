@@ -7,6 +7,7 @@
 
 - 北京
   - [京东](https://www.jd.com/)
+    - [如何看待京东也要开始实行996制度？](https://www.zhihu.com/question/50269617)
 - 上海
   - ...
 - 深圳
